@@ -25,3 +25,9 @@ class PostSerializer(serializers.ModelSerializer):
 - Uso de `instance.titulo` (en español) cuando el modelo probablemente usa `title` (en inglés). Esto causará un `AttributeError` ya que el campo titulo no existe en el modelo.
 - Solo se valida la longitud del título pero no otros campos importantes como el contenido
 - El método update solo modifica el título, ignorando otros campos que podrían estar en `validated_data`
+
+## 🖋️ Autor
+
+**Fabrizzio Ríos** - Software Engineer  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/fabrizzioRios) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fabrizzio-rios-21b21b240/) 

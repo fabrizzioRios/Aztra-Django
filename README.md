@@ -90,6 +90,13 @@ docker-compose run --rm app sh -c "cd /app && python manage.py test blog.tests"
 
 - ⚙️ Panel de administración en http://localhost:8000/admin/
 
+## 🐞 Debugging Challenge
+
+Solución del DEBUG Challenge:
+- [Debug Challenge Solution](./DEBUG_CHALLENGE.md)
+
+[![Open Debug Challenge](https://img.shields.io/badge/Open-Debug_Challenge-important)](./DEBUG_CHALLENGE.md)
+
 ## 🖋️ Autor
 
 **Fabrizzio Ríos** - Software Engineer  
