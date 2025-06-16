@@ -9,7 +9,7 @@ API Django con Docker Compose para gestión de blog y tareas.
 # 📦 Características Principales
 - 🏗️ **API REST** completa con Django REST Framework
 
-- ✏️** CRUD **completo para posts de blog y tareas
+- ✏️**CRUD** completo para posts de blog y tareas
 
 - 🔍 **Filtrado avanzado** de tareas por estado/proyecto
 
